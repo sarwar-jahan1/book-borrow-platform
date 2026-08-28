@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "title": "The Salt Road",
+    "author": "Imogen Wray",
+    "description": "A caravan trader crosses a dying empire to deliver a letter that could end a war, discovering along the way that the desert keeps better records than any archive.",
+    "category": "Story",
+    "available_quantity": 4,
+    "image_url": "https://picsum.photos/seed/salt-road/500/700"
+  },
+  {
+    "id": "2",
+    "title": "Learning React Deeply",
+    "author": "Marcus Odell",
+    "description": "A practical, no-fluff walkthrough of component architecture, hooks, and rendering performance for developers who want to actually understand the framework, not just use it.",
+    "category": "Tech",
+    "available_quantity": 7,
+    "image_url": "https://picsum.photos/seed/learning-react/500/700"
+  },
+  {
+    "id": "3",
+    "title": "The Quiet Universe",
+    "author": "Dr. Amara Solis",
+    "description": "An accessible tour of cosmology's biggest open questions, from dark matter to the fate of the last star, written for curious readers with no physics background.",
+    "category": "Science",
+    "available_quantity": 2,
+    "image_url": "https://picsum.photos/seed/quiet-universe/500/700"
+  },
+  {
+    "id": "4",
+    "title": "Paper Lanterns",
+    "author": "Hana Ito",
+    "description": "Three generations of a family run a lantern shop through a century of change, and each lantern they sell carries a wish someone was too afraid to say aloud.",
+    "category": "Story",
+    "available_quantity": 5,
+    "image_url": "https://picsum.photos/seed/paper-lanterns/500/700"
+  },
+  {
+    "id": "5",
+    "title": "Systems That Don't Fall Over",
+    "author": "Priya Nathan",
+    "description": "Case studies and design patterns for building distributed systems that survive real-world failure, drawn from a decade of on-call incidents at scale.",
+    "category": "Tech",
+    "available_quantity": 3,
+    "image_url": "https://picsum.photos/seed/systems-book/500/700"
+  },
+  {
+    "id": "6",
+    "title": "The Chemistry of Everyday Things",
+    "author": "Owen Farrow",
+    "description": "Why bread rises, why rust forms, why coffee tastes different at altitude — a tour of the ordinary chemical reactions hiding in daily life.",
+    "category": "Science",
+    "available_quantity": 6,
+    "image_url": "https://picsum.photos/seed/chemistry-book/500/700"
+  },
+  {
+    "id": "7",
+    "title": "A Cartography of Small Griefs",
+    "author": "Noor Abbasi",
+    "description": "A poet maps the geography of loss across a single year, charting how grief moves through a house, a city, and eventually, a person.",
+    "category": "Story",
+    "available_quantity": 0,
+    "image_url": "https://picsum.photos/seed/cartography-griefs/500/700"
+  },
+  {
+    "id": "8",
+    "title": "Databases Without Fear",
+    "author": "Julius Kwan",
+    "description": "A friendly, example-driven guide to relational and document databases, covering schema design, indexing, and the trade-offs that actually matter in production.",
+    "category": "Tech",
+    "available_quantity": 8,
+    "image_url": "https://picsum.photos/seed/databases-fear/500/700"
+  },
+  {
+    "id": "9",
+    "title": "The Migration",
+    "author": "Dr. Femi Okoro",
+    "description": "A field biologist's account of following one bird species across four continents, and what its shrinking migration route reveals about a changing planet.",
+    "category": "Science",
+    "available_quantity": 1,
+    "image_url": "https://picsum.photos/seed/the-migration/500/700"
+  },
+  {
+    "id": "10",
+    "title": "Nine Doors to Kestrel House",
+    "author": "Rosalind Vane",
+    "description": "A locked-room mystery set in a crumbling estate where every door in the house has a secret, and only one leads to the truth about the owner's disappearance.",
+    "category": "Story",
+    "available_quantity": 3,
+    "image_url": "https://picsum.photos/seed/kestrel-house/500/700"
+  },
+  {
+    "id": "11",
+    "title": "Designing APIs People Actually Like",
+    "author": "Sana Malik",
+    "description": "A practical handbook on API ergonomics — naming, versioning, error design, and documentation — for teams that want fewer support tickets and happier integrators.",
+    "category": "Tech",
+    "available_quantity": 5,
+    "image_url": "https://picsum.photos/seed/designing-apis/500/700"
+  },
+  {
+    "id": "12",
+    "title": "The Mathematics of Tides",
+    "author": "Dr. Liam Bergström",
+    "description": "An elegant explanation of the gravitational dance between moon, sun, and ocean, and how coastal communities have read the tides for a thousand years.",
+    "category": "Science",
+    "available_quantity": 4,
+    "image_url": "https://picsum.photos/seed/tides-math/500/700"
+  }
+]
